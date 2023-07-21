@@ -4,8 +4,8 @@
 
 </br>
 
-- I am currently studying in my prefinal year with overall CGPA of 9.24 .
-- I received the ** Harvard WEAmplify Scholarship 2022** from Harvard University for their **WECode Conference** for the year 2022.
+- I am currently studying in my final year.
+- I received the ***Harvard WEAmplify Scholarship 2022***from Harvard University for their **WECode Conference** for the year 2022.
 - I was selected as Mentee for the **Microsoft Engage 2022**.
 - I also received a ** Lift scholarship** from **The Linux Foundation** for the year **2022**. 
 - I am an open source enthusiast and also nurturing my github garden.
